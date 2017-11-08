@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Response>
+
+<SpeakSentence voice="paola" locale="en" gender="female">
+Hello world!
+</SpeakSentence>
+
+</Response>
