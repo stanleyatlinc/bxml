@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
     <SpeakSentence voice="susan" locale="en_US" gender="female">
-        TTS
+        Keep this line.
         Thanks for your calling Guess customer service.
     </SpeakSentence>
-    <Redirect requestUrl="http://flow.url/newFlow" requestUrlTimeout="10000"></Redirect>
+    <Hangup></Hangup>
 </Response>
