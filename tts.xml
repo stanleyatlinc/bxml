@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
 <SpeakSentence voice="susan" locale="en_US" gender="female">
-Thanks for your calling
-Thanks for your calling
-Thanks for your calling
+
 Thanks for your calling
 </SpeakSentence>
 </Response>
