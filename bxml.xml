@@ -2,7 +2,7 @@
 
 <Response>
 
-<SpeakSentence voice="paola" locale="en" gender="female">
+<SpeakSentence voice="susan" locale="en_US" gender="female">
 Hello world!
 </SpeakSentence>
 
