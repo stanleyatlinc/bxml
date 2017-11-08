@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Response>
-<SpeakSentence voice="paola" locale="it" gender="female">
-Questo è un test
-</SpeakSentence>
-</Response>
