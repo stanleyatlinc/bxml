@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
     <SpeakSentence voice="susan" locale="en_US" gender="female">
-        Keep_this_line.
+        KEEP THIS!
         Thanks for your calling Guess customer service, bye!
     </SpeakSentence>
     <Hangup></Hangup>
