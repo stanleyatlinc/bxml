@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <SendMessage from="+18443398624" to="+16692005494" gender="female">
+    <SendMessage from="+18443398624" to="+16692005494">
         Auto Reply Message.
     </SendMessage>
 </Response>
